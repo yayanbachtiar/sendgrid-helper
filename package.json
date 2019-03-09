@@ -1,0 +1,24 @@
+{
+  "name": "sendgrid-helper",
+  "version": "0.0.1",
+  "description": "helper for send email with sendgrid",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yayanbachtiar/sendgrid-helper.git"
+  },
+  "keywords": [
+    "sendgrid",
+    "helper",
+    "email"
+  ],
+  "author": "yayanbachtiar",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/yayanbachtiar/sendgrid-helper/issues"
+  },
+  "homepage": "https://github.com/yayanbachtiar/sendgrid-helper#readme"
+}
