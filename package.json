@@ -1,6 +1,6 @@
 {
   "name": "sendgrid-helper",
-  "version": "0.0.1",
+  "version": "1.0.0",
   "description": "helper for send email with sendgrid",
   "main": "index.js",
   "scripts": {
@@ -20,5 +20,9 @@
   "bugs": {
     "url": "https://github.com/yayanbachtiar/sendgrid-helper/issues"
   },
-  "homepage": "https://github.com/yayanbachtiar/sendgrid-helper#readme"
+  "homepage": "https://github.com/yayanbachtiar/sendgrid-helper#readme",
+  "dependencies": {
+    "request": "^2.88.0",
+    "request-promise": "^4.2.4"
+  }
 }
